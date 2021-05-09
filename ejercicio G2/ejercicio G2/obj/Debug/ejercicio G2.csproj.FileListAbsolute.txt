@@ -1,0 +1,7 @@
+C:\Users\kevin\Documents\GitHub\EJERCICIO-2\ejercicio G2\ejercicio G2\bin\Debug\ejercicio G2.exe.config
+C:\Users\kevin\Documents\GitHub\EJERCICIO-2\ejercicio G2\ejercicio G2\bin\Debug\ejercicio G2.exe
+C:\Users\kevin\Documents\GitHub\EJERCICIO-2\ejercicio G2\ejercicio G2\bin\Debug\ejercicio G2.pdb
+C:\Users\kevin\Documents\GitHub\EJERCICIO-2\ejercicio G2\ejercicio G2\obj\Debug\ejercicio G2.csprojAssemblyReference.cache
+C:\Users\kevin\Documents\GitHub\EJERCICIO-2\ejercicio G2\ejercicio G2\obj\Debug\ejercicio G2.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\GitHub\EJERCICIO-2\ejercicio G2\ejercicio G2\obj\Debug\ejercicio G2.exe
+C:\Users\kevin\Documents\GitHub\EJERCICIO-2\ejercicio G2\ejercicio G2\obj\Debug\ejercicio G2.pdb
